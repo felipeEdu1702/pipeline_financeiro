@@ -1,0 +1,66 @@
+# =======================
+# Arquivos do VSCode
+# =======================
+.vscode/
+*.code-workspace
+
+# =======================
+# Ambientes virtuais
+# =======================
+venv/
+env/
+.venv/
+ENV/
+
+# =======================
+# Python
+# =======================
+__pycache__/
+.py[cod]
+*$py.class
+
+# =======================
+# Logs e temporários
+# =======================
+*.log
+*.pot
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+
+# =======================
+# Arquivos de pacotes
+# =======================
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# =======================
+# Configurações locais
+# =======================
+*.env
+*.ini
+*.toml
+*.cfg
+
+# =======================
+# Jupyter Notebook
+# =======================
+.ipynb_checkpoints
+
+# =======================
+# MacOS e Windows
+# =======================
+.DS_Store
+Thumbs.db
+
+
+# =======================
+# Arquivos de texto
+# =======================
+# *.txt
